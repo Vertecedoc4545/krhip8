@@ -1,0 +1,11 @@
+[package]
+name = "krhip8"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+libc = "0.2.169"
+rand = "0.8.5"
+#rodio = "0.20.1"
+stack-stack = "0.1.0"
+termion = "4.0.3"
